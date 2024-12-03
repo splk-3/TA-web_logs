@@ -1,0 +1,6 @@
+# .gitignore for Splunk
+*local.meta
+*local/
+*.spl
+*.tar
+*.r.gz

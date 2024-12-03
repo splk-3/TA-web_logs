@@ -1,0 +1,14 @@
+[eventtypes/web_22]
+owner = nobodysplunk
+version = 9.3.2
+modtime = 1732703723.264106000
+
+[tags/eventtype%3Dweb_22]
+owner = nobodysplunk
+version = 9.3.2
+modtime = 1732703772.568969000
+
+[props/web_web_proxy]
+owner = nobodysplunk
+version = 9.3.2
+modtime = 1732703815.036629000
